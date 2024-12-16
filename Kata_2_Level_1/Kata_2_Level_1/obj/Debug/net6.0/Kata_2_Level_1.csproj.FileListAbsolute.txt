@@ -1,0 +1,15 @@
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\bin\Debug\net6.0\Kata_2_Level_1.exe
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\bin\Debug\net6.0\Kata_2_Level_1.deps.json
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\bin\Debug\net6.0\Kata_2_Level_1.runtimeconfig.json
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\bin\Debug\net6.0\Kata_2_Level_1.dll
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\bin\Debug\net6.0\Kata_2_Level_1.pdb
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\obj\Debug\net6.0\Kata_2_Level_1.csproj.AssemblyReference.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\obj\Debug\net6.0\Kata_2_Level_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\obj\Debug\net6.0\Kata_2_Level_1.AssemblyInfoInputs.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\obj\Debug\net6.0\Kata_2_Level_1.AssemblyInfo.cs
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\obj\Debug\net6.0\Kata_2_Level_1.csproj.CoreCompileInputs.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\obj\Debug\net6.0\Kata_2_Level_1.dll
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\obj\Debug\net6.0\refint\Kata_2_Level_1.dll
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\obj\Debug\net6.0\Kata_2_Level_1.pdb
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\obj\Debug\net6.0\Kata_2_Level_1.genruntimeconfig.cache
+C:\Users\AlienwareM15\Documents\GitHub\Assignments\Orange_Belt\Kata_2_Level_1\Kata_2_Level_1\obj\Debug\net6.0\ref\Kata_2_Level_1.dll
